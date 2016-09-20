@@ -1,3 +1,5 @@
+[![Android Gems](http://www.android-gems.com/badge/tianshaojie/AndroidFine.svg?branch=master)](http://www.android-gems.com/lib/tianshaojie/AndroidFine)
+
 # AndroidFine，Android快速开发框架
 
 ## UI组件，不止是简单整合，更易用
@@ -17,6 +19,12 @@
 * 各种utils，拿来就可以用
 * [Android编码规范](http://tianshaojie.github.io/android-code-style)，简单才能规范(已更新，更合理，欢迎建议)
 
+## QQ群
+ * 190443010，欢迎加群交流。
+
+## 类文件描述
+
+![](https://github.com/tianshaojie/AndroidFine/blob/master/doc.png)
 
 ## 精致Demo
 
@@ -35,6 +43,5 @@
 ## 下载试用
 
 [Download AndroidFine.apk](http://files.cnblogs.com/files/purediy/AndroidFine.apk)
-
 
 
